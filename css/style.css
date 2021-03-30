@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+}
+.intro-question{
+    padding-bottom: 1rem;
+}
