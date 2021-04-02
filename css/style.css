@@ -16,12 +16,17 @@ h1{
 
 h2{
     color: #C05176;
+    padding: 10px;
 }
 p{
     color: #85314d;;
+    padding: 10px;
 }
 
 a{
     color: #C05176;
     text-decoration: none;
+}
+img{
+    padding: 10px;
 }
