@@ -24,8 +24,12 @@ p{
 }
 
 a{
-    color: #C05176;
+    background-color: #C05176;
     text-decoration: none;
+    color: honeydew;
+    padding: 5px;
+    border-radius: 10px;
+   
 }
 img{
     padding: 10px;
