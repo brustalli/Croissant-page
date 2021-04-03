@@ -15,9 +15,18 @@ div{
     padding-bottom: 1rem;
 }
 
+h1 {
+    color: #a84667;
+}
+
 h2{
     color: #C05176;
     padding: 10px;
+
+}
+
+h3{
+    color: #C05176;
 }
 p{
     color: #85314d;;
